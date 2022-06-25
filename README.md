@@ -31,6 +31,6 @@ Se sono presenti più di 50 immagini, il programma chiederà il permesso per con
 
 ## Preview
 
-[!plot](./Screenshot_1.png)
+![plot](./Screenshot_1.png)
 
 
