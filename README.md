@@ -31,6 +31,6 @@ Se sono presenti più di 50 immagini, il programma chiederà il permesso per con
 
 ## Preview
 
-[WORK IN PROGRESS] 
+[!plot](./Screenshot_1.png)
 
 
